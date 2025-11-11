@@ -11,11 +11,11 @@ from telegram.constants import ParseMode
 from datetime import datetime
 
 # Konfigurasi
-BOT_TOKEN = "-"
-CHANNEL_USERNAME = "@irfacyber"
-CHANNEL_LINK = "https://t.me/irfacyber"
+BOT_TOKEN = "8434895515:AAEK8gY6108fqOWomF6myMcfGbR-18LuM8A"
+CHANNEL_USERNAME = "https://t.me/+BmJlUuAtJFoxZjll"
+CHANNEL_LINK = "https://t.me/+BmJlUuAtJFoxZjll"
 LOGO_URL = "https://g.top4top.io/p_35568o9i71.png"
-ADMIN_ID = -  # Ganti dengan ID Telegram kamu
+ADMIN_ID = "7936564252"  # Ganti dengan ID Telegram kamu
 
 # API Keys
 GEMINI_API_KEY = "AIzaSyBXCuOfj-ivUcq0ZFYW4do5bAmPuGFKaZo"
